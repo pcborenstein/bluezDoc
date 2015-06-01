@@ -1,2 +1,1 @@
-# bluezDoc
 Click the wiki ->
